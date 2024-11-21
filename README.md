@@ -4,6 +4,7 @@ Mobile application I developed using different cycles and methods (ENJOY FRUIT)
 
 EXPLANATİON:
 In the mobile game called Enjoy Fruit, different fruits rise from the bottom section.
+And as the score increases, the game gets faster.
 We get scores by cutting fruits.
 There are also different icons such as money, for example;
 Our life count is on the top left of the screen.
